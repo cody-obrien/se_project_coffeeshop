@@ -1,0 +1,24 @@
+.nav {
+  max-height: 800px;
+  font-style: normal;
+  font-weight: 500;
+}
+
+.nav__links {
+  list-style-type: none;
+  display: flex;
+  justify-content: flex-end;
+  position: relative;
+  top: 30px;
+  right: 80px;
+  padding: 0;
+  margin: 0;
+  gap: 20px;
+}
+
+.nav__link {
+}
+
+.nav__link:hover {
+  color: #2f80ed;
+}
