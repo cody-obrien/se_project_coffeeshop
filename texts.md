@@ -3,8 +3,6 @@ _Header_
 ---
 
 _Section: Menu_
-Menu
-We brew coffee from locally roasted, Fairtrade certified beans and use biodegradable cups. All teas from our collection are $2/cup.
 
 Filter
 Regular (12 oz) $1
