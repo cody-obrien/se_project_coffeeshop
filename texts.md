@@ -7,8 +7,6 @@ _Section: Menu_
 ---
 
 _Section: Recipes_
-Recipes
-Check out some recipes we've collected for your home-brewing convenience:
 
 Aeropress recipe
 ~5 min
