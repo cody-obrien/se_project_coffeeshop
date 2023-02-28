@@ -33,15 +33,9 @@
   margin: 100px auto 0;
   padding-bottom: 100px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   gap: 100px;
-}
-
-.menu__card-type-coffee {
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
 }
